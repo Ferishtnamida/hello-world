@@ -5,6 +5,7 @@ Testing this whole GitHub thangalang
   <header>
     <title><a>Testing GitHub omg</a></title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="main.css">
   </header>
   <div>
      <h1>miss keisha</h1>
